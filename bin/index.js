@@ -20,8 +20,7 @@ function createWindow() {
   });
 }
 
-_electron.app.on('ready', createWindow); // Quit when all windows are closed.
-
+_electron.app.on('ready', createWindow);
 
 _electron.app.on('window-all-closed', function () {
   if (process.platform !== 'darwin') _electron.app.quit();

@@ -24,4 +24,3 @@ typings/
 .yarn-integrity
 .env
 .next
-bin
