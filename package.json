@@ -22,7 +22,6 @@
   "scripts": {
     "start": "electron bin/",
     "test": "electron bin/",
-    "pretest": "babel src -d bin --copy-files",
     "build": "babel src -d bin --copy-files",
     "watch": "babel src -w -d bin --copy-files"
   }
