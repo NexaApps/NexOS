@@ -1,0 +1,10 @@
+{
+  "name": "nexos",
+  "version": "1.0.0-alpha",
+  "description": "electron os",
+  "main": "src/index.js",
+  "repository": "https://github.com/NexaApps/NexOS",
+  "author": "KKS & KHJ",
+  "license": "MIT",
+  "private": false
+}
