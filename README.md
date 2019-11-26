@@ -14,10 +14,11 @@ Powerful Electron OS
 
 ## Requirements
 - Node.js (with npm or yarn)
-- Electron
 
 ## Installation
-`soon`
+- yarn add
+- yarn build
+- yarn start
 
 ## License
 MIT
