@@ -16,7 +16,7 @@ Powerful Electron OS
 - Node.js (with npm or yarn)
 
 ## Installation
-- yarn add
+- yarn install
 - yarn build
 - yarn start
 
